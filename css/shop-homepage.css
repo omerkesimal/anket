@@ -1,0 +1,21 @@
+
+
+body {
+ width:1024px;
+margin: auto;
+ position:relative;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+    margin: auto;
+
+  }
+}
+
+#mainWrapper{
+  margin-right: 0px;
+  margin-left: 0px;
+
+}
